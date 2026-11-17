@@ -1,0 +1,14 @@
+Teammate No.1
+Name      -> Abhinav Kulkarni
+SRN       -> PES1UG25CS014
+Github ID -> Abhivbk
+
+Teammate No.2
+Name      -> Akshith Singh
+SRN       -> PES1UG25CS048
+Github ID -> chazephaze
+
+Teammate No.3
+Name      -> Amogh B
+SRN       -> PES1UG25CS053
+Github ID -> Amogh3737
