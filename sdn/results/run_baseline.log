@@ -1,0 +1,24 @@
+--- repeat 1 rtt ---
+ack_ms: avg=171.22  p50=177.34  p95=192.86  max=211.44
+delivery_ms: avg=171.25  p50=177.37  p95=192.89  max=211.46
+lost=0/200
+
+--- repeat 1 scale ---
+clients=10 msgs/client=20 connect_avg_ms=522.00 delivered=2000/2000 (100.0%) elapsed_s=3.00
+
+--- repeat 2 rtt ---
+ack_ms: avg=177.24  p50=177.41  p95=178.64  max=202.93
+delivery_ms: avg=177.29  p50=177.45  p95=178.65  max=202.94
+lost=0/200
+
+--- repeat 2 scale ---
+clients=10 msgs/client=20 connect_avg_ms=511.04 delivered=2000/2000 (100.0%) elapsed_s=3.01
+
+--- repeat 3 rtt ---
+ack_ms: avg=177.31  p50=177.36  p95=181.84  max=191.79
+delivery_ms: avg=177.37  p50=177.44  p95=181.86  max=191.80
+lost=0/200
+
+--- repeat 3 scale ---
+clients=10 msgs/client=20 connect_avg_ms=516.80 delivered=2000/2000 (100.0%) elapsed_s=3.00
+
